@@ -8,4 +8,4 @@ Disallow: /accounts
 User-agent: *
 Allow: /
 
-Sitemap: https://dragonrest.vercel.app/sitemap.xml
+Sitemap: https://rabbitmp3download.vercel.app/sitemap.xml
